@@ -1,2 +1,4 @@
 # screaming-crafts
-Custom crafting fro spigot with custom materials
+Custom crafting for spigot with custom materials
+
+Very first attempt at creating a plugin, as well as first attempt with git and git-hub
